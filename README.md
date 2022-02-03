@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-My name is Jamie and I know a little bit of Python, JavaScript, and a tad bit of LabView.
+My name is Jamie and I code Python, JavaScript, Java, SQL, Arduio, and LabView.
